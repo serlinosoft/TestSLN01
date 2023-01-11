@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic Redis Chat App Demo (Node.js)
 
 Showcases how to impliment chat app in Node.js, Socket.IO and Redis. This example uses **pub/sub** feature combined with web-sockets for implementing the message communication between client and server.
@@ -299,3 +300,7 @@ yarn start
         <img src="https://deploy.cloud.run/button.svg" alt="Run on Google Cloud" width="150px"/>
     </a>
 </p>
+=======
+# TestSLN01
+Test app con Redis sobre Vercel - App: basic-redis-chat-app-demo-nodejs
+>>>>>>> b19141e7cb1b99f2955add6ff449232511f95084
